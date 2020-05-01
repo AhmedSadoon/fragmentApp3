@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fragment App3</string>
+
+    <string-array name="titles">
+        <item>vdddddddddddd</item>
+        <item>ddddddddd</item>
+        <item>fffffffff</item>
+        <item>wwwwwwww</item>
+        <item>ggggggggggg</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>1iiiiiiii</item>
+        <item>2uuuu</item>
+        <item>3yyyy</item>
+        <item>4dttttttt</item>
+        <item>5ccc</item>
+    </string-array>
+</resources>
